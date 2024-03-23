@@ -22,7 +22,7 @@ Universidad Peruana de Ciencias Aplicadas
 | Nombres                             | Codigo     |
 |-------------------------------------|------------|
 | Huarcaya Chavez, Miguel Alejandro   |            |
-|                                     |            |
+| Tarazona Medina Piero Abel          |u202217633  |
 |                                     |            |
 |                                     |            |
 |                                     |            |
