@@ -21,9 +21,9 @@ Universidad Peruana de Ciencias Aplicadas
 
 | Nombres                             | Codigo     |
 |-------------------------------------|------------|
-| Huarcaya Chavez, Miguel Alejandro   |            |
-| Tarazona Medina Piero Abel          |u202217633  |
-|                                     |            |
+| Huarcaya Chavez, Miguel Alejandro   | u202116207 |
+| Tarazona Medina Piero Abel          | u202217633 |
+| Elias Torres Espinoza               | u20191A453 |
 |                                     |            |
 |                                     |            |
 
@@ -43,7 +43,7 @@ Universidad Peruana de Ciencias Aplicadas
 ---
 ---
 # Project Report Collaboration Insights
-Link de Repositorio: https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git
+Link de Repositorio: https://github.com/Huarzurita/upc-AppWeb-BicasTeam-Report.git
 
 <!--  Adicionalmente, para cada entrega explica cómo
 se han desarrollado las actividades de elaboración del informe y se presenta
