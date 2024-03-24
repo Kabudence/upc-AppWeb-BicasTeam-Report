@@ -24,7 +24,7 @@ Universidad Peruana de Ciencias Aplicadas
 | Huarcaya Chavez, Miguel Alejandro   | u202116207 |
 | Tarazona Medina Piero Abel          | u202217633 |
 | Elias Torres Espinoza               | u20191A453 |
-|                                     |            |
+| Donayre Peña, Moises Rodolfo        | u202216021 |
 |                                     |            |
 
 </center>
