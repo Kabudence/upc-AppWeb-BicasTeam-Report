@@ -235,6 +235,29 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
+CALIDAD:
+
+Después de analizar a nuestros competidores, nosotros pudimos concluir que uno
+de sus principales problemas con respecto a su gran número de quejas en las páginas
+de descarga, se debe a una gran falta de cuidado y mantenimiento de la aplicación, la
+cual padece de una gran cantidad de errores de forma bastante frecuente.
+
+Para conseguir nuestra ventaja competitiva, vamos a minimizar los tiempos de
+carga en la navegacion y uso de la aplicacion web, además de evitar cualquier tipo de
+inconveniente que pueda causar incomodidad al usuario con respecto a temas de
+disponibilidad, funcionalidad y accesibilidad.
+
+MARKETING:
+
+Después de analizar el caso de "Dispatch Science", nosotros pudimos concluir que uno
+de sus principales problemas con respecto a su poca popularidad en el mercado, 
+se debe a la falta de alcance que mostró en ese rubro y la falta de muestras de marketing 
+de forma virtual.
+
+Asimismo, la dependencia y limitaciones que mostró su modelo ínfimo de publicidad, provocó
+que no pudiera crecer y que no pudiera dar una solución estable y a largo plazo ante la 
+problemática presentada que se intenta resolver.
+
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
 
