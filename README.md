@@ -273,6 +273,24 @@ problemática presentada que se intenta resolver.
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
 
+EMPRESARIOS
+
+1. ¿Cuál es su nombre y qué edad tiene? ¿En qué distrito vive?
+2. ¿Cuál es su estado civil? Indicar si tienes hijos.
+3. ¿Cuánto tiempo de experiencia tiene en esa función?
+4. ¿Cómo realiza actualmente la gestión de vehículos, conductores y rutas en su empresa?
+5. ¿Qué herramientas o sistemas utiliza actualmente para administrar su flota de transporte?
+6. ¿Qué funcionalidades le gustaría ver en una herramienta de gestión de flotas ideal?
+7. ¿Cómo cree que una solución tecnológica podría mejorar la eficiencia operativa de su empresa en términos de gestión de flotas?
+8. ¿Cuáles son sus preocupaciones principales en cuanto a seguridad y cumplimiento normativo en la gestión de flotas?
+9. ¿Qué impacto cree que tendría una solución de gestión de flotas eficiente en la rentabilidad de su empresa?
+10. ¿Qué tan dispuesto estaría a adoptar una nueva solución tecnológica para la gestión de flotas en su empresa?
+11. ¿Qué características específicas le resultarían más útiles para mejorar la gestión de su flota?
+12. ¿Cómo evaluaría el éxito de una solución de gestión de flotas una vez implementada en su empresa?
+13. ¿Tiene alguna experiencia previa con soluciones similares? ¿Qué lecciones ha aprendido de esa experiencia?
+
+TRANSPORTISTAS
+
 1. ¿Cuál es su nombre y qué edad tiene? ¿En qué distrito vive?
 2. ¿Cuál es su estado civil? Indicar si tienes hijos.
 3. ¿Para qué empresa trabaja? ¿Y a qué se dedica dentro de la empresa?
@@ -282,25 +300,68 @@ problemática presentada que se intenta resolver.
 7. ¿Cómo recibe el conductor la información de los viajes que tiene que realizar?
 8. ¿Como se comunica la empresa con los conductores de los buses en cualquier
 momento?
-9. ¿Cómo gestionan los viajes y las rutas que deben realizar los buses?
-10. ¿Como gestiona el mantenimiento de los buses y con qué frecuencia se hace dicho
+1. ¿Cómo gestionan los viajes y las rutas que deben realizar los buses?
+2.  ¿Como gestiona el mantenimiento de los buses y con qué frecuencia se hace dicho
 proceso?
-11. ¿Qué aspectos cambiaria de la empresa donde trabaja para hacerla más eficiente?
-12. ¿Esta usted familiarizado con el manejo de aplicaciones móviles para el rubro
+1.  ¿Qué aspectos cambiaria de la empresa donde trabaja para hacerla más eficiente?
+2.  ¿Esta usted familiarizado con el manejo de aplicaciones móviles para el rubro
 transporte?
-13. ¿Estaría dispuesto a usar alternativas tecnológicas como aplicaciones que le faciliten la
+1.  ¿Estaría dispuesto a usar alternativas tecnológicas como aplicaciones que le faciliten la
 gestión de su trabajo?
-14. ¿Qué dispositivos tecnológicos usan en su vida diaria y para el trabajo?
-15. ¿Qué medios (tv, redes sociales, chats con amigos) utiliza para enterarse de nuevas
+1.  ¿Qué dispositivos tecnológicos usan en su vida diaria y para el trabajo?
+2.  ¿Qué medios (tv, redes sociales, chats con amigos) utiliza para enterarse de nuevas
 noticias (problemas sociales, oportunidades de negocio, paro de transporte, etc.)?
-16. A lo largo de su experiencia, ¿Cuáles son los principales problemas o dificultades que
+1.  A lo largo de su experiencia, ¿Cuáles son los principales problemas o dificultades que
 encuentra en el país que perjudican su trabajo?
-17. Finalmente, ¿En qué planes o proyectos personales se visualiza en el futuro?
+1.  Finalmente, ¿En qué planes o proyectos personales se visualiza en el futuro?
 
 ### 2.2.2 Registro de entrevistas
 
+EMPRESARIOS
+
+<!-- AQUI VA LAS ENTREVISTAS DE LOS EMPRESARIOS - HAGANSE 2 PS GENTE, CON 2 YO CREO QUE ES MAS QUE SUFICIENTE,, NO TIENE QUE SER REALES XD-->
+
+ENTREVISTA 1
+![Entrevista 1 Empresarios]()
+
+Link:
+
+Inicia: 
+
+Duración:
+
+Nombre: 
+
+Edad: 
+
+Distrito: 
+
+RESUMEN:
+
+
+ENTREVISTA 2
+![Entrevista 2 Empresarios]()
+
+Link:
+
+Inicia: 
+
+Duración:
+
+Nombre: 
+
+Edad: 
+
+Distrito: 
+
+RESUMEN:
+
+
+
+TRANSPORTISTAS
+
 ENTREVISTA 1:
-![Entrevista 1](http://drive.google.com/uc?export=view&id=1uPQmzhiGYfqR2OqecIX4xLjZbzsZJWFZ)
+![Entrevista 1 Transportistas](http://drive.google.com/uc?export=view&id=1uPQmzhiGYfqR2OqecIX4xLjZbzsZJWFZ)
 https://www.youtube.com/watch?v=Jae7MyQCcLc
 
 Inicia: 0:00
@@ -327,7 +388,7 @@ Le parece interesante la opción de tener una aplicación que gestione la inform
 Le gustaría crear una empresa aprovechando la experiencia que tiene en el rubro de transporte. Asimismo, considera que la aplicación propuesta lo apoyaría en sus gestiones.
 
 ENTREVISTA 2:
-![Entrevista 2](http://drive.google.com/uc?export=view&id=1D-57fks4FfQc2YbKrS3x3xF7MM9aQ34i)
+![Entrevista 2 Transportistas](http://drive.google.com/uc?export=view&id=1D-57fks4FfQc2YbKrS3x3xF7MM9aQ34i)
 https://www.youtube.com/watch?v=3CMkwkj_wVs
 
 Inicia: 0:00 
@@ -352,7 +413,7 @@ Tiene idea a futuro de crear una empresa de transporte dado su experiencia en va
 
 ENTREVISTA 3:
 
-![Entrevista 3](http://drive.google.com/uc?export=view&id=1SItMuDN0DGpaF7AQj7WrfCBB16KpL_kc)
+![Entrevista 3 Transportistas](http://drive.google.com/uc?export=view&id=1SItMuDN0DGpaF7AQj7WrfCBB16KpL_kc)
 
 https://www.youtube.com/watch?v=pNpHUvLLnX0
 
@@ -373,6 +434,13 @@ Usualmente utiliza la televisión para enterarse de nuevas noticias o de oportun
 Cree que el tráfico vehicular perjudica en gran medida las normales actividades de la empresa. En el futuro, le gustaría tener su propio vehículo para negocio o una flotilla de taxis.
 
 ### 2.2.3 Análisis de entrevistas
+
+EMPRESARIOS
+
+<!-- AQUI VA EL ANALISSI DE LAS ENTREVSITAS D ELOS EMPRESARIOS -->
+
+
+TRANSPORTISTAS
 
 De las entrevistas realizadas podemos determinar ciertos aspectos.
 
@@ -400,25 +468,56 @@ EMPRESARIO
 
 ### 2.3.2 User Task Matrix
 
-| Task                                                   | Frecuencia | Severity   |
-|--------------------------------------------------------|------------|------------|
-| Registrar información sobre los viajes completados     |   ALTA     |    ALTA    |
-| Reportar incidencias o problemas durante el viaje      |  A veces   |    ALTA    |
-| Verificar el estado de entrega de los envíos asignados |   ALTA     |    ALTA    |
-| Reportar problemas tecnicos                            |  A veces   |   MEDIA    |
-| Ver propias estadisticas                               |   ALTA     |   MEDIA    |
+Los segmentos a analizar son empresarios a cargo de un flota de vehiculos y Transportistas encrgados en llevar un paquete de una scursal a un punto B.
+
+| Tarea                                       | Descripción                                                                                   | Frecuencia (1-5) | Importancia (1-5) |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------|-------------------|
+| **Empresarios**                             |                                                                                               |                   |                   |
+| Monitoreo del rendimiento de la flota      | Seguimiento del desempeño de vehículos y conductores para identificar áreas de mejora.       |        5          |     5              |
+| Registro y seguimiento de incidencias      | Documentación y seguimiento de problemas y eventos relacionados con la flota.                 |            5       |      3             |
+| Planificación de rutas                     | Diseño y optimización de rutas para maximizar la eficiencia y minimizar los costos.           |         1         |      5             |
+| Análisis de costos de operación            | Evaluación y control de los gastos asociados con la operación de la flota.                     |         1          |    5               |
+| Gestión de la seguridad                    | Implementación y seguimiento de medidas para garantizar la seguridad de la flota y los conductores. |           1        |         5          |
+| **Transportistas**                          |                                                                                               |                   |                   |
+| Seguimiento de envíos                      | Monitoreo en tiempo real de la ubicación y estado de los envíos para garantizar la puntualidad. |          5         |       5            |
+| Mantenimiento de vehículos                 | Programación y seguimiento de tareas de mantenimiento para garantizar el funcionamiento óptimo. |          5         |       5            |
+| Comunicación con conductores               | Coordinación y transmisión de información importante a los conductores sobre rutas y entregas. |           5        |   3                |
+| Registro de horas de trabajo               | Documentación y seguimiento de las horas de trabajo de los conductores para cumplir con regulaciones laborales. |       5            |    3               |
+| Reporte de incidentes y problemas          | Documentación y comunicación de problemas operativos y situaciones inesperadas.                |         1          |    4           |
+
+Diferencias:
+
+Los empresarios se centran más en tareas relacionadas con la gestión general de la flota, como monitoreo del rendimiento, registro de incidencias y planificación de rutas.
+Los transportistas, por otro lado, se centran en tareas más operativas, como seguimiento de envíos, mantenimiento de vehículos y comunicación con conductores.
+
+Coincidencias:
+
+Ambos grupos reconocen la importancia de la seguridad en la gestión de flotas, lo que se refleja en tareas como el registro de incidencias y la implementación de medidas de seguridad.
+Tanto los empresarios como los transportistas valoran la eficiencia operativa, como se evidencia en tareas como el monitoreo del rendimiento y la planificación de rutas.
+
 
 ### 2.3.3 User Journey Mapping
 
 CONDUCTOR
 
-![Journey Conductor](http://drive.google.com/uc?export=view&id=1So3GaJAZKg6EUm7_we1xgi6bIVfNCP2e)
+![Journey Transportista](http://drive.google.com/uc?export=view&id=1So3GaJAZKg6EUm7_we1xgi6bIVfNCP2e)
 
 EMPRESARIO
 
+![Journey Empresario](http://drive.google.com/uc?export=view&id=1n8RpB1aXxKDUj-RL_2eIriTWWKV7ml2c)
+
+
 
 ### 2.3.4 Empathy Mapping
-![Empathy Mapping](http://drive.google.com/uc?export=view&id=1ScSIZDzwsM5IG7i2u5UE2D1_yaUzstbz)
+
+TRANSPORTISTA
+
+![Empathy Mapping Transportista](http://drive.google.com/uc?export=view&id=1ScSIZDzwsM5IG7i2u5UE2D1_yaUzstbz)
+
+EMPRESARIO
+
+![Empathy Mapping Empresario](http://drive.google.com/uc?export=view&id=1_F0dt2nUWZ47izDhGhdKcqypU_kNUFwy)
+
 
 ### 2.3.5 As-is Scenario Mapping
 
