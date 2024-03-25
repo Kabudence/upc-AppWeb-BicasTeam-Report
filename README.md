@@ -102,6 +102,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 
 [2.3.1. User Personas]()
 
+[2.3.2. User Task Matrix]()
+
 [2.3.3. User Journey Mapping]()
 
 [2.3.4. Empathy Mapping]()
@@ -395,6 +397,13 @@ EMPRESARIO
 
 ### 2.3.2 User Task Matrix
 
+| Task                                                   | Frecuencia | Severity   |
+|--------------------------------------------------------|------------|------------|
+| Registrar información sobre los viajes completados     |   ALTA     |    ALTA    |
+| Reportar incidencias o problemas durante el viaje      |  A veces   |    ALTA    |
+| Verificar el estado de entrega de los envíos asignados |   ALTA     |    ALTA    |
+| Reportar problemas tecnicos                            |  A veces   |   MEDIA    |
+| Ver propias estadisticas                               |   ALTA     |   MEDIA    |
 
 ### 2.3.3 User Journey Mapping
 
@@ -417,6 +426,16 @@ CONDUCTOR
 EMPRESARIO
 
 ## 2.4 Ubiquitous Language
+
+- MoviGestion: Aplicación web integral diseñada para abordar los desafíos de gestión en el sector del transporte empresarial.
+
+- Empresarios: Individuos involucrados en la administración de sistemas de transporte dentro de sus empresas.
+
+- Transportistas: Individuos o empresas que prestan servicios de transporte y buscan una organización eficiente en sus operaciones.
+
+- Características de Gestión de Flotas: Incluyen estadísticas de rendimiento, reporte de infracciones, registro de incidencias, seguimiento de envíos exitosos y control de sitios enviados.
+
+- Planes de Suscripción: Ofrecidos para adaptarse a las necesidades y tamaño de cada empresa usuaria.
 
 # Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET:
