@@ -228,6 +228,16 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 
 # CAPITULO 2: Requirements Elicitation & Analysis
 ## 2.1 Competidores
+
+ONFLEET:
+El moderno software de gestión de entregas de Onfleet facilita a los mensajeros la gestión y el análisis de sus entregas locales. Onfleet incluye intuitivas aplicaciones de teléfonos inteligentes para conductores, panel weben tiempo real para distribuidores y notificaciones automáticas por mensajes SMS y seguimiento de conductores para tus clientes.
+
+TRACK-POD:
+Track-POD es un software de entrega avanzado que presenta una aplicación electrónica de prueba de entrega, una solución móvil todo en uno para un monitoreo eficiente del rendimiento del controlador en tiempo real y confirmación de entrega.
+
+DISPATCH SCIENCE:
+Dispatch Science es un novedoso sistema de gestión de entregas para expedidores, transportistas y empresas de mensajería. Administra, optimiza y automatiza precios, facturación, distribución, enrutamiento y alertas y seguimiento en tiempo real.
+
 ### 2.1.1 Análisis competitivo
 ![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1xbeoT36l7lIsORJmITY7fN_BXyHcGRJq)
 ![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1AjuSIOZ3G47SgpXyztptCI-E1_EVjHm5)
