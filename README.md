@@ -229,10 +229,15 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 # CAPITULO 2: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ### 2.1.1 Análisis competitivo
+![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1S1ouDdTN95ZUv7lPrlA7DSd5xqstGRjZ)
+![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1KgzrK9-5DLhZrCr1kx34qyXpz4A0-GK7)
+![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1sMNyplmbR8x-R0D4hs3kqi5C2KM8hPQJ)
+
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
+
 ### 2.2.2 Registro de entrevistas
 ### 2.2.3 Análisis de entrevistas
 
