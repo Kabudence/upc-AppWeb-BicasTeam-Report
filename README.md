@@ -238,6 +238,30 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
 
+1. ¿Cuál es su nombre y qué edad tiene? ¿En qué distrito vive?
+2. ¿Cuál es su estado civil? Indicar si tienes hijos.
+3. ¿Para qué empresa trabaja? ¿Y a qué se dedica dentro de la empresa?
+4. ¿Cuánto tiempo de experiencia tiene en esa función?
+5. ¿Qué requisitos pide la empresa para que puedan trabajar en ella?
+6. ¿Cuántos viajes al día realiza un vehículo de la empresa?
+7. ¿Cómo recibe el conductor la información de los viajes que tiene que realizar?
+8. ¿Como se comunica la empresa con los conductores de los buses en cualquier
+momento?
+9. ¿Cómo gestionan los viajes y las rutas que deben realizar los buses?
+10. ¿Como gestiona el mantenimiento de los buses y con qué frecuencia se hace dicho
+proceso?
+11. ¿Qué aspectos cambiaria de la empresa donde trabaja para hacerla más eficiente?
+12. ¿Esta usted familiarizado con el manejo de aplicaciones móviles para el rubro
+transporte?
+13. ¿Estaría dispuesto a usar alternativas tecnológicas como aplicaciones que le faciliten la
+gestión de su trabajo?
+14. ¿Qué dispositivos tecnológicos usan en su vida diaria y para el trabajo?
+15. ¿Qué medios (tv, redes sociales, chats con amigos) utiliza para enterarse de nuevas
+noticias (problemas sociales, oportunidades de negocio, paro de transporte, etc.)?
+16. A lo largo de su experiencia, ¿Cuáles son los principales problemas o dificultades que
+encuentra en el país que perjudican su trabajo?
+17. Finalmente, ¿En qué planes o proyectos personales se visualiza en el futuro?
+
 ### 2.2.2 Registro de entrevistas
 ### 2.2.3 Análisis de entrevistas
 
