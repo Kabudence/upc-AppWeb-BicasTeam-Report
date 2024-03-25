@@ -390,9 +390,12 @@ De las entrevistas realizadas podemos determinar ciertos aspectos.
 
 CONDUCTOR
 
-![User Persona 1](http://drive.google.com/uc?export=view&id=1goMsQtI5mNL7nBE5CB4EXw_AVzuHyfrG)
+![User Persona Transportista](http://drive.google.com/uc?export=view&id=11onQm2QL_AqS7FAnasnx_SlUsP7mIqg8)
 
 EMPRESARIO
+
+![User Persona Empresario](http://drive.google.com/uc?export=view&id=1w_yWVXZzAqRjgDEfI89id8Gs57If90xu)
+
 
 
 ### 2.3.2 User Task Matrix
