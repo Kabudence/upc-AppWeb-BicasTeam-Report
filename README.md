@@ -339,12 +339,49 @@ Cree que el tráfico vehicular perjudica en gran medida las normales actividades
 
 ### 2.2.3 Análisis de entrevistas
 
+De las entrevistas realizadas podemos determinar ciertos aspectos.
+
+- La edad de los entrevistados se encuentra en el rango de 40 a 50 años.
+- La mayoría de nuestros entrevistados reside en el distrito de Villa el Salvador, como también en el Cercado de Lima. Además, el 100% de nuestros entrevistados vive con su familia.
+- Son conductores de empresas dedicadas al transporte de personas ya sea con fin turístico o transporte de personal de otras empresas.
+- Cuentan con muchos años de experiencia en el rubro.
+- Utilizan distintos medios para la comunicación entre equipo. Ejemplo: WhatsApp, llamada o videollamada.
+- Alguna vez han usado aplicaciones tecnológicas en su trabajo.
+- Consideran importante el uso de la tecnología dentro de una empresa.
+- El 100% de entrevistados cree que la comunicación debe ser mejorada dentro de la empresa y la consideran vital para un buen desempeño.
+
 ## 2.3 Needfinding
-### 2.3.1 User Personas
+### 2.3.1 User Persona
+
+CONDUCTOR
+
+![User Persona 1](http://drive.google.com/uc?export=view&id=1goMsQtI5mNL7nBE5CB4EXw_AVzuHyfrG)
+
+EMPRESARIO
+
+
 ### 2.3.2 User Task Matrix
+
+
 ### 2.3.3 User Journey Mapping
+
+CONDUCTOR
+
+![Journey Conductor](http://drive.google.com/uc?export=view&id=1So3GaJAZKg6EUm7_we1xgi6bIVfNCP2e)
+
+EMPRESARIO
+
+
 ### 2.3.4 Empathy Mapping
+![Empathy Mapping](http://drive.google.com/uc?export=view&id=1ScSIZDzwsM5IG7i2u5UE2D1_yaUzstbz)
+
 ### 2.3.5 As-is Scenario Mapping
+
+CONDUCTOR
+
+![Scenario Conductor](http://drive.google.com/uc?export=view&id=1R_1xf7fOTvpIcFf1B2Poab-F6rWE6HgN)
+
+EMPRESARIO
 
 ## 2.4 Ubiquitous Language
 
