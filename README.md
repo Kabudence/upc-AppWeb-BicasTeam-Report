@@ -258,11 +258,28 @@ MoviGestion proporciona una solución completa que abarca todas las necesidades 
 
 ### 1.1.2 Perfiles de integrantes del equipo
 <!-- Idea de formato -->
+<!-- Miguel: Me gusta el formato, pero te falta tu foto , pd: como que tienes 18 de edad no jodas XDXDXD tmre ahora me siento mal -->
 | Integrante                | Mauricio Sebastián Chacon Martinez |
 |---------------------------|------------------------------------|
 | Código del Estudiante     | U202212911                         |
 | Carrera                   | Ingeniería de Software             |
 | Descripción               | Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 18 años. Me gusta la programación y tengo conocimientos en HTML, CSS, JS y C++. Me considero una persona responsable. |
+
+| Integrante                | Miguel Huarcaya Chavez             |
+|---------------------------|------------------------------------|
+| Código del Estudiante     | U202116207                         |
+| Carrera                   | Ingeniería de Software             |
+| Descripción               | Soy estudiante de 7mo ciclo. Cuento con conocimientos en JavaScript, TypeScript, HTML, CSS, Vue y Angular. Soy una persona responsable y colaborativa. |
+| Foto                      | ![Imagen Perfil Miguel](http://drive.google.com/uc?export=view&id=15OkOHA80ilo5waqsoPyt4h5rFm5_2tGv) |
+
+
+
+
+
+
+
+
+
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y Problematica
