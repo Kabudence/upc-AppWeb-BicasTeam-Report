@@ -263,6 +263,80 @@ encuentra en el país que perjudican su trabajo?
 17. Finalmente, ¿En qué planes o proyectos personales se visualiza en el futuro?
 
 ### 2.2.2 Registro de entrevistas
+
+ENTREVISTA 1:
+![Entrevista 1](http://drive.google.com/uc?export=view&id=1uPQmzhiGYfqR2OqecIX4xLjZbzsZJWFZ)
+https://www.youtube.com/watch?v=Jae7MyQCcLc
+
+Inicia: 0:00
+
+Duración: 10:04 min
+
+Nombre: Ricardo Chate Flores
+
+Edad: 45 años
+
+Distrito: Cercado de Lima
+
+
+RESUMEN:
+
+Ricardo tiene al menos 25 años de experiencia en este rubro. Es casado y tiene 1 hija.
+Trabaja como conductor para la empresa de transportes Arellanos, dedicado al transporte para personal de fábricas o también para turismo.
+Debido a los años de experiencia en la empresa, también trabaja como supervisor. Utiliza la comunicación por WhatsApp para coordinar con los conductores.
+La persona que asigna las rutas, los viajes y los conductores de cada vehículo es la secretaria.
+Para gestionar el mantenimiento de vehículos se coordina con el área de mecánica. El proceso inicia cuando los conductores notan las averías y el mal funcionamiento. De inmediato se comunica con el área de mecánica para informar a través de los medios mencionados.
+Cree que es fundamental la comunicación entre los trabajadores de la empresa. Y que la comunicación debe ser siempre mejorada.
+En la empresa cuentan con una aplicación que le indica la hora de salida del bus y la ruta origen a destino, es por ello por lo que Ricardo cuenta con experiencia en el uso de aplicaciones tecnológicas.
+Le parece interesante la opción de tener una aplicación que gestione la información de rutas, reporte de incidentes, alerta de mantenimiento periódico.
+Le gustaría crear una empresa aprovechando la experiencia que tiene en el rubro de transporte. Asimismo, considera que la aplicación propuesta lo apoyaría en sus gestiones.
+
+ENTREVISTA 2:
+![Entrevista 2](http://drive.google.com/uc?export=view&id=1D-57fks4FfQc2YbKrS3x3xF7MM9aQ34i)
+https://www.youtube.com/watch?v=3CMkwkj_wVs
+
+Inicia: 0:00 
+
+Duración: 05:09 min
+
+Nombre: Víctor Cuba Bautista
+
+Edad: 42 años
+
+Distrito: Villa el Salavdor
+
+
+RESUMEN:
+
+Víctor tiene 25 años de experiencia en el rubro de transporte. Es conviviente y tiene 1 hijo.
+trabaja como conductor en la empresa de Transporte Arellanos. Normalmente realiza 2 viajes por día.
+Considera que la comunicación debe mejorar en la empresa.
+Tiene experiencia usando aplicaciones tecnológicas en su trabajo. Para conocer sobre las noticias y oportunidades de empleo se informa a través de la televisión y redes sociales como Facebook.
+Considera que el trafico vehicular es un problema que perjudica en su labor.
+Tiene idea a futuro de crear una empresa de transporte dado su experiencia en varios aspectos como, por ejemplo, área de mantenimiento y control vehicular.
+
+ENTREVISTA 3:
+
+![Entrevista 3](http://drive.google.com/uc?export=view&id=1SItMuDN0DGpaF7AQj7WrfCBB16KpL_kc)
+
+https://www.youtube.com/watch?v=pNpHUvLLnX0
+
+Inicia: 0:00 
+
+Duración: 08:02 min
+
+Nombre:  Martín Merino Ávila
+
+Edad: 50 años
+
+Distrito: Villa el salvador
+
+RESUMEN:
+
+Martin tiene 35 años de experiencia en este rubro. Es casado y tiene 2 hijos. Normalmente realiza 4 viajes por día.  La comunicación es vía WhatsApp entre compañeros. Comenta que algunas veces la comunicación no es la más adecuada y es necesario que quede constancia de la información que se da entre compañeros para evitar no tomar responsabilidades en algún tema. Considera que para un trabajo más eficiente se debería tratar de tener buses más modernos, y que hay que darle buen trato al cliente. Usa distintas aplicaciones para cada labor dentro de la empresa. Asimismo, estaría interesado en una aplicación que reúna todas las funciones necesarias para cumplir cada etapa de sus funciones diarias. (Mantenimiento, comunicación, control, informe de problemas en carretera).
+Usualmente utiliza la televisión para enterarse de nuevas noticias o de oportunidades de negocio.
+Cree que el tráfico vehicular perjudica en gran medida las normales actividades de la empresa. En el futuro, le gustaría tener su propio vehículo para negocio o una flotilla de taxis.
+
 ### 2.2.3 Análisis de entrevistas
 
 ## 2.3 Needfinding
