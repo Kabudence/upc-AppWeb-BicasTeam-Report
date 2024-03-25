@@ -542,7 +542,8 @@ EMPRESARIO
 
 CONDUCTOR
 
-![Scenario Conductor](http://drive.google.com/uc?export=view&id=1R_1xf7fOTvpIcFf1B2Poab-F6rWE6HgN)
+<!-- MIGUEL: ESTA TABLA AS IS ESTA MAL, NO TIENE LAS FUNCONALIDADES QUE OFRECEMOS -->
+<!-- ![Scenario Conductor](http://drive.google.com/uc?export=view&id=1R_1xf7fOTvpIcFf1B2Poab-F6rWE6HgN) -->
 
 EMPRESARIO
 
