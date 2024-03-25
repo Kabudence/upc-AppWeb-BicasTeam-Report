@@ -229,9 +229,9 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 # CAPITULO 2: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ### 2.1.1 Análisis competitivo
-![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1S1ouDdTN95ZUv7lPrlA7DSd5xqstGRjZ)
-![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1KgzrK9-5DLhZrCr1kx34qyXpz4A0-GK7)
-![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1sMNyplmbR8x-R0D4hs3kqi5C2KM8hPQJ)
+![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1xbeoT36l7lIsORJmITY7fN_BXyHcGRJq)
+![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1AjuSIOZ3G47SgpXyztptCI-E1_EVjHm5)
+![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1XoOwP1DD-7x1IWuOgLEr6EffjR4KkzP6)
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
