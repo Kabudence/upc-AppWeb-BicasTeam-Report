@@ -19,13 +19,33 @@ Universidad Peruana de Ciencias Aplicadas
 
 <center>
 
-| Nombres                             | Codigo     |
-|-------------------------------------|------------|
-| Huarcaya Chavez, Miguel Alejandro   | u202116207 |
-| Tarazona Medina Piero Abel          | u202217633 |
-| Elias Torres Espinoza               | u20191A453 |
-| Donayre Peña, Moises Rodolfo        | u202216021 |
-|                                     |            |
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Codigo</th>
+    </tr>
+    <tr>
+        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>u202116207</td>
+    </tr>
+    <tr>
+        <td>Tarazona Medina Piero Abel</td>
+        <td>u202217633</td>
+    </tr>
+    <tr>
+        <td>Elias Torres Espinoza</td>
+        <td>u20191A453</td>
+    </tr>
+    <tr>
+        <td>Donayre Peña, Moises Rodolfo</td>
+        <td>u202216021</td>
+    </tr>
+    <tr>
+        <td>nombre</td>
+        <td>codigo</td>
+    </tr>
+</table>
+
 
 </center>
 
@@ -34,10 +54,21 @@ Universidad Peruana de Ciencias Aplicadas
 ---
 ---
 ---
-# Registro de Versiones del informe
-| Versión | Fecha      | Autor                  | Descripcion de modificacion |
-|---------|------------|------------------------|-----------------------------|
-|         |            |                        |                             |
+
+<table>
+    <tr>
+        <th>Version</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripcion de modificacion</th>
+    </tr>
+    <tr>
+        <td>Algo</td>
+        <td>Algo</td>
+        <td>Algo</td>
+        <td>Algo</td>
+    </tr>
+</table>
 
 ---
 ---
@@ -235,7 +266,20 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5
 
-| Criterio especifico   | Acciones Realizadas     | Conclusiones |
-|-----------------------|-------------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software |    |      |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |    |    |
+<table>
+    <tr>
+        <th>Criterio Especifico</th>
+        <th>Acciones Realizadas</th>
+        <th>Conclusiones</th>
+    </tr>
+    <tr>
+        <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
+        <td>Col 2</td>
+        <td>Col 3</td>
+    </tr>
+    <tr>
+        <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software</td>
+        <td>Col 2</td>
+        <td>Col 3</td>
+    </tr>
+</table>
