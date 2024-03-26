@@ -260,9 +260,270 @@ DISPATCH SCIENCE:
 Dispatch Science es un novedoso sistema de gestión de entregas para expedidores, transportistas y empresas de mensajería. Administra, optimiza y automatiza precios, facturación, distribución, enrutamiento y alertas y seguimiento en tiempo real.
 
 ### 2.1.1 Análisis competitivo
-![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1xbeoT36l7lIsORJmITY7fN_BXyHcGRJq)
-![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1AjuSIOZ3G47SgpXyztptCI-E1_EVjHm5)
-![Analisis Competitivo](http://drive.google.com/uc?export=view&id=1XoOwP1DD-7x1IWuOgLEr6EffjR4KkzP6)
+
+<table border="1" style="text-align:center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Competitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>MoviGestion</td>
+			<td>Onfleet</td>
+			<td>Track-POD</td>
+			<td>Dispatch Science</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Overview</td>
+			<td>Aplicación diseñada para la gestión eficiente de flotas de transporte en una variedad de ámbitos empresariales, proporcionando herramientas y características para optimizar la operación y rendimiento de flotas.</td>
+			<td>Es una plataforma SaaS de gestión de entregas de última milla que ayuda a las empresas a gestionar las operaciones de flota.</td>
+			<td>Es un software de planificación de rutas y recorrido de vehículos, diseñado para optimizar la eficiencia de la rutina de entrega y la planificación.</td>
+			<td>Es un sistema de gestión de entrega para cargadores y transportistas, que simplifican y automatizan la entrega de pedidos, el transporte, el seguimiento en vivo y la generación de informes.</td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+			<td>Ser una plataforma que ofrece información detallada sobre la flota, lo que facilita el seguimiento del desempeño de esta a lo largo del tiempo.</td>
+			<td>Ser una plataforma que facilita a los mensajeros la gestión y el análisis de sus entregas locales.</td>
+			<td>Ser una plataforma que proporciona una herramienta de planificación de rutas para organizar múltiples entregas y una aplicación de comprobante de entrega electrónica para los conductores.</td>
+			<td>Ser una plataforma que administra, optimiza y automatiza precios, facturación, distribución, enrutamiento y alertas, y seguimiento en tiempo real.</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td>
+                <ul>
+                    <li>Conductores</li>
+                    <li>Empresas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Conductores</li>
+                    <li>Empresas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Conductores</li>
+                    <li>Empresas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Conductores</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                    <li>Página web virtual</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                    <li>Página web virtual</li>
+                    <li>Publicidad en Twitter</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                    <li>Página web virtual</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                    <li>Página web virtual</li>
+                    <li>Publicidad en Facebook</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos &amp; Servicios</td>
+			<td>
+                <ul>
+                    <li>Aplicación móvil</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación móvil</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación móvil</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación móvil</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Precios &amp; Costos</td>
+			<td>
+                <ul>
+                    <li>Gratuito el uso de la aplicación. Cuenta con una versión de pago, pero ofrece una versión gratis</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Gratuito el uso de la aplicación. Cuenta con una versión de pago, pero ofrece una versión gratis</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Gratuito el uso de la aplicación. Cuenta con una versión de pago, pero ofrece una versión gratis</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Gratuito el uso de la aplicación. Cuenta con una versión de pago, pero ofrece una versión gratis</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Canales de distribución (Web y/o Móvil)</td>
+			<td>
+                <ul>
+                    <li>Plataforma de distribución de aplicaciones (Play Store, App Store)</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de distribución de aplicaciones (Play Store, App Store)</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de distribución de aplicaciones (Play Store, App Store)</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de distribución de aplicaciones (Play Store, App Store)</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>
+                <ul>
+                    <li>Informacion detallada de la flota</li>
+                    <li>Actualizaciones continuas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precios transparentes</li>
+                    <li>Permite la comunicación entre conductores</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Optimiza las rutas cada día siendo más eficiente</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Brinda capacidad de administrar todos los aspectos</li>
+                    <li>Tiene un valor incomparable</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>
+                <ul>
+                    <li>Carece de ciertas características específicas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>La optimización de rutas se realiza para entregas en camiones o almacenes</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>No se puede agregar más rutas en un mismo momento</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Tiene un costo muy alto para lo que ofrece</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>
+                <ul>
+                    <li>Expansión de la plataforma para aarcar áreas adicionales de gestión empresarial</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Mejores condiciones de uso en la aplicación</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Grandes logros</li>
+                    <li>Buen reconocimiento</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Funciona correctamente para ayudar a los conductores con sus rutas</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<td>
+                <ul>
+                    <li>Presencia de competidores estalecidos</li>
+                    <li>Cambios en la tecnología</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                    <li>Otras aplicaciones son más baratas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                </ul>
+            </td>
+		</tr>
+	</tbody>
+</table>
+
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
