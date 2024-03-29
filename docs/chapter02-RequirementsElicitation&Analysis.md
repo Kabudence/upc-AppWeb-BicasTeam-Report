@@ -392,8 +392,10 @@ RESUMEN:
 TRANSPORTISTAS
 
 ENTREVISTA 1:
+
 ![Entrevista 1 Transportistas](http://drive.google.com/uc?export=view&id=1uPQmzhiGYfqR2OqecIX4xLjZbzsZJWFZ)
-https://www.youtube.com/watch?v=Jae7MyQCcLc
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv
 
 Inicia: 0:00
 
@@ -419,8 +421,10 @@ Le parece interesante la opción de tener una aplicación que gestione la inform
 Le gustaría crear una empresa aprovechando la experiencia que tiene en el rubro de transporte. Asimismo, considera que la aplicación propuesta lo apoyaría en sus gestiones.
 
 ENTREVISTA 2:
+
 ![Entrevista 2 Transportistas](http://drive.google.com/uc?export=view&id=1D-57fks4FfQc2YbKrS3x3xF7MM9aQ34i)
-https://www.youtube.com/watch?v=3CMkwkj_wVs
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA
 
 Inicia: 0:00 
 
@@ -446,7 +450,7 @@ ENTREVISTA 3:
 
 ![Entrevista 3 Transportistas](http://drive.google.com/uc?export=view&id=1SItMuDN0DGpaF7AQj7WrfCBB16KpL_kc)
 
-https://www.youtube.com/watch?v=pNpHUvLLnX0
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8
 
 Inicia: 0:00 
 
@@ -501,20 +505,20 @@ EMPRESARIO
 
 Los segmentos a analizar son empresarios a cargo de un flota de vehiculos y Transportistas encrgados en llevar un paquete de una scursal a un punto B.
 
-| Tarea                                       | Descripción                                                                                   | Frecuencia (1-5) | Importancia (1-5) |
-|---------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------|-------------------|
-| **Empresarios**                             |                                                                                               |                   |                   |
-| Monitoreo del rendimiento de la flota      | Seguimiento del desempeño de vehículos y conductores para identificar áreas de mejora.       |        5          |     5              |
-| Registro y seguimiento de incidencias      | Documentación y seguimiento de problemas y eventos relacionados con la flota.                 |            5       |      3             |
-| Planificación de rutas                     | Diseño y optimización de rutas para maximizar la eficiencia y minimizar los costos.           |         1         |      5             |
-| Análisis de costos de operación            | Evaluación y control de los gastos asociados con la operación de la flota.                     |         1          |    5               |
-| Gestión de la seguridad                    | Implementación y seguimiento de medidas para garantizar la seguridad de la flota y los conductores. |           1        |         5          |
-| **Transportistas**                          |                                                                                               |                   |                   |
-| Seguimiento de envíos                      | Monitoreo en tiempo real de la ubicación y estado de los envíos para garantizar la puntualidad. |          5         |       5            |
-| Mantenimiento de vehículos                 | Programación y seguimiento de tareas de mantenimiento para garantizar el funcionamiento óptimo. |          5         |       5            |
-| Comunicación con conductores               | Coordinación y transmisión de información importante a los conductores sobre rutas y entregas. |           5        |   3                |
-| Registro de horas de trabajo               | Documentación y seguimiento de las horas de trabajo de los conductores para cumplir con regulaciones laborales. |       5            |    3               |
-| Reporte de incidentes y problemas          | Documentación y comunicación de problemas operativos y situaciones inesperadas.                |         1          |    4           |
+| Tarea                                      | Descripción                                                                                         | Frecuencia (1-5) | Importancia (1-5) |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------|-------------------|
+| **Empresarios**                            |                                                                                                     |                  |                   |
+| Monitoreo del rendimiento de la flota      | Seguimiento del desempeño de vehículos y conductores para identificar áreas de mejora.              |         5        |          5        |
+| Registro y seguimiento de incidencias      | Documentación y seguimiento de problemas y eventos relacionados con la flota.                       |         5        |          3        |
+| Planificación de rutas                     | Diseño y optimización de rutas para maximizar la eficiencia y minimizar los costos.                 |         1        |          5        |
+| Análisis de costos de operación            | Evaluación y control de los gastos asociados con la operación de la flota.                          |         1        |          4        |
+| Gestión de la seguridad                    | Implementación y seguimiento de medidas para garantizar la seguridad de la flota y los conductores. |         1        |          5        |
+| **Transportistas**                         |                                                                                                     |                  |                   |
+| Seguimiento de envíos                      | Monitoreo en tiempo real de la ubicación y estado de los envíos para garantizar la puntualidad.     |         5        |          5        |
+| Mantenimiento de vehículos                 | Programación y seguimiento de tareas de mantenimiento para garantizar el funcionamiento óptimo.     |         5        |          5        |
+| Comunicación con conductores               | Coordinación y transmisión de información importante a los conductores sobre rutas y entregas.      |         5        |          3        |
+| Registro de horas de trabajo               | Documentación y seguimiento de las horas de trabajo de los conductores para cumplir con regulaciones laborales. |         5        |          3        |
+| Reporte de incidentes y problemas          | Documentación y comunicación de problemas operativos y situaciones inesperadas.                     |         1        |          4        |
 
 Diferencias:
 
