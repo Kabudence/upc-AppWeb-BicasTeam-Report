@@ -1,10 +1,7 @@
 ![Logo Upc](https://www.upc.edu.pe/static/img/logo_upc_red.png "Logo upc")
 Universidad Peruana de Ciencias Aplicadas
 
-<center>
-
-# Informe de Trabajo Final
-</center>
+<h1 align="center">Informe del trabajo final</h1>
 
 
 ### <center>Aplicaciones Web</center> 
