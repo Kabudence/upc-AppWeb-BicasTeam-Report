@@ -558,10 +558,11 @@ EMPRESARIO
 
 CONDUCTOR
 
-<!-- MIGUEL: ESTA TABLA AS IS ESTA MAL, NO TIENE LAS FUNCONALIDADES QUE OFRECEMOS -->
-<!-- ![Scenario Conductor](http://drive.google.com/uc?export=view&id=1R_1xf7fOTvpIcFf1B2Poab-F6rWE6HgN) -->
+![As-Is Conductor](http://drive.google.com/uc?export=view&id=1fvI9HXYspcVTJKkoNGgzYzmdB0IQ7BfP)
 
 EMPRESARIO
+
+![As-Is Empresario](http://drive.google.com/uc?export=view&id=1ruPyKQBji_OTKrEpI5Te-WJPvIY34e9w)
 
 ## 2.4 Ubiquitous Language
 
