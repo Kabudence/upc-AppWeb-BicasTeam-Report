@@ -41,8 +41,8 @@ Universidad Peruana de Ciencias Aplicadas
         <td>u202216021</td>
     </tr>
     <tr>
-        <td>nombre</td>
-        <td>codigo</td>
+        <td>Josue Omar, Hidalgo Bustamante</td>
+        <td>u202119880</td>
     </tr>
 </table>
 
