@@ -75,8 +75,42 @@ La gestión de flotas de transporte en diversos ámbitos empresariales presenta 
 * **Creemos que** ofreciendo características como seguimiento en tiempo real de envíos y registro de incidencias, **sabemos que** los usuarios podrán mejorar la seguridad y el cumplimiento normativo de sus operaciones de transporte, **cuando** puedan identificar y abordar rápidamente los problemas y riesgos potenciales.
 * **Creemos que** diseñando una interfaz intuitiva y fácil de usar, **sabemos que** los usuarios adoptarán rápidamente la aplicación y aumentará su satisfacción con el producto, **cuando** encuentren que la aplicación es fácil de navegar y utilizar, incluso sin experiencia previa en aplicaciones de gestión de flotas.
 
-#### 1.2.2.4 Lean UX Canvas
-<!-- MIGUEL: RECOMIENDO HACER UNA IMAGEN Y SUBIRLA AL DRIVE Y JALARLO AQUI, HACER UN CUADRO SERIA DEMASIADO PESADO -->
+### 1.2.2.4 Lean UX Canvas
+
+#### Problema
+La gestión de flotas de transporte presenta desafíos significativos debido a la falta de herramientas especializadas y la dependencia de métodos manuales propensos a errores. Esta gestión fragmentada y descentralizada no solo consume tiempo y recursos, sino que también dificulta la optimización operativa y la toma de decisiones fundamentadas.
+
+#### Solución
+Desarrollar una aplicación web integral para la gestión de flotas de transporte que permita una gestión eficaz de vehículos y rutas, optimizando recursos y facilitando la toma de decisiones informadas para mejorar la eficiencia operativa en el sector del transporte empresarial.
+
+#### Usuarios
+- Empresarios responsables de administrar sistemas de transporte dentro de sus empresas.
+- Transportistas dedicados al transporte de mercancías o pasajeros.
+
+#### Necesidades de los Usuarios
+- Optimización de la gestión de flotas.
+- Mejora de la eficiencia operativa.
+- Toma de decisiones informadas.
+- Planificación de rutas.
+- Monitoreo del rendimiento de conductores y vehículos.
+- Garantía de puntualidad en las entregas.
+
+#### Características Principales
+- Seguimiento en tiempo real de envíos.
+- Registro de incidencias.
+- Estadísticas y datos en tiempo real sobre el rendimiento de la flota.
+- Interfaz intuitiva y fácil de usar.
+- Funciones de seguridad y cumplimiento normativo.
+
+#### Métricas Clave
+- Número de usuarios activos.
+- Tasa de retención de usuarios.
+- Tiempo promedio de uso de la aplicación.
+- Nivel de satisfacción del usuario.
+- Número de incidencias registradas y resueltas.
+
+#### Propuesta de Valor
+Ofrecer una solución tecnológica integral que simplifique y optimice la gestión de flotas de transporte, permitiendo a los usuarios mejorar la eficiencia operativa, reducir costos y garantizar la satisfacción del cliente.
 
 ## 1.3 Segmentos objetivos
 Los segmentos objetivos de MoviGestion son:
@@ -90,3 +124,8 @@ Los segmentos objetivos de MoviGestion son:
 **Transportistas**: Individuos o empresas que se dedican al transporte de mercancías o pasajeros y que buscan una organización eficiente en la gestión de sus operaciones. Este segmento necesita herramientas que les ayuden a planificar rutas, monitorear el rendimiento de los conductores y vehículos, y garantizar la puntualidad en las entregas.
 
 ![Imagen de Transportistas](http://drive.google.com/uc?export=view&id=18e7pbNmpAPRGeXYbzycyRqKY3368ncEz)
+
+
+
+
+
