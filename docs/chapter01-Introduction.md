@@ -13,138 +13,52 @@ MoviGestion proporciona una solución completa que abarca todas las necesidades 
 ### 1.1.2 Perfiles de integrantes del equipo
 <!-- Idea de formato -->
 
-<table>
-    <tr>
-        <th>Integrante</th>
-        <td>Mauricio Sebastián Chacon Martinez</td>
-    </tr>
-    <tr>
-        <th>Codgio del Estudiante</th>
-        <td>U202212911</td>
-    </tr>
-    <tr>
-        <th>Carrera</th>
-        <td>Ingeniería de Software</td>
-    </tr>
-    <tr>
-        <th>Descripcion</th>
-        <td>Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 18 años. Me gusta la programación y tengo conocimientos en HTML, CSS, JS y C++. Me considero una persona responsable.</td>
-    </tr>
-    <tr>
-        <th>Foto</th>
-        <td>fotito falta</td>
-    </tr>
-</table>
+| Integrante             | Mauricio Sebastián Chacon Martinez |
+|------------------------|------------------------------------|
+| Codigo del Estudiante  | U202212911                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            | Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 18 años. Me gusta la programación y tengo conocimientos en HTML, CSS, JS y C++. Me considero una persona responsable. |
+| Foto                   |                                    |
 
-</br>
-</br>
-</br>
 
-<table>
-    <tr>
-        <th>Integrante</th>
-        <td>Miguel Huarcaya Chavez</td>
-    </tr>
-    <tr>
-        <th>Codgio del Estudiante</th>
-        <td>U202116207</td>
-    </tr>
-    <tr>
-        <th>Carrera</th>
-        <td>Ingeniería de Software</td>
-    </tr>
-    <tr>
-        <th>Descripcion</th>
-        <td>Soy estudiante de 7mo ciclo. Cuento con conocimientos en JavaScript, TypeScript, HTML, CSS, Vue y Angular. Soy una persona responsable y colaborativa.</td>
-    </tr>
-    <tr>
-        <th>Foto</th>
-        <td>
-        <img src="http://drive.google.com/uc?export=view&id=15OkOHA80ilo5waqsoPyt4h5rFm5_2tGv" alt="Imagen Perfil Miguel">
-        </td>
-    </tr>
-</table>
+| Integrante             | Miguel Huarcaya Chavez             |
+|------------------------|------------------------------------|
+| Codigo del Estudiante  | U202116207                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            | Soy estudiante de 7mo ciclo. Cuento con conocimientos en JavaScript, TypeScript, HTML, CSS, Vue y Angular. Soy una persona responsable y colaborativa. |
+| Foto                   | ![Miguel](http://drive.google.com/uc?export=view&id=15OkOHA80ilo5waqsoPyt4h5rFm5_2tGv) |
+
+
+| Integrante             | Piero Abel Tarazona Medina         |
+|------------------------|------------------------------------|
+| Codigo del Estudiante  | U202217633                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            | Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me caracterizo por mi pensamiento crítico y capacidad de encontrar soluciones viables para los distintos problemas. Tengo conocimientos en HTML, CSS, C++. |
+| Foto                   | ![Piero](http://drive.google.com/uc?export=view&id=1qvjjhEiY7gOCOomblCS7kexx0iFn_MPy) |
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y Problematica
+
 La gestión de flotas de transporte en diversos ámbitos empresariales es una tarea compleja que requiere un enfoque integral y eficiente. Ante la falta de herramientas especializadas, los empresarios y transportistas se enfrentan a dificultades para administrar sus sistemas de transporte de manera efectiva. La ausencia de un sistema centralizado para monitorear y controlar las operaciones de la flota puede dar lugar a problemas de rendimiento, seguridad y cumplimiento normativo.
 Para analizar los antecedentes y la problemática a la que nuestro proyecto se afronta, vamos a utilizar el modelo práctico de las 5Ws y 2Hs, con el fin de idear un sistema más estructurado y que se centre en las causas del problema principalmente   
 
 **Técnica 5Ws y 2Hs**
 
-<table>
-    <tr>
-        <th>Who</th>
-        <th>¿Quiénes están involucrados?</th>
-        <td>Empresarios y transportistas que necesitan gestionar flotas de transporte en diversos ámbitos empresariales.</td>
-    </tr>
-    <tr>
-        <th>What?</th>
-        <th>¿Cuál es el problema?</th>
-        <td>La falta de una herramienta eficiente para administrar sistemas de transporte, lo que conlleva a dificultades en la gestión manual de vehículos, conductores y rutas, así como a la ausencia de seguimiento adecuado de incidencias, infracciones y envíos exitosos.</td>
-    </tr>
-    <tr>
-        <th>Where?</th>
-        <th>¿Dónde surge el problema?</th>
-        <td>En empresas que operan flotas de transporte en diferentes sectores y ubicaciones geográficas.</td>
-    </tr>
-    <tr>
-        <th>When?</th>
-        <th>¿Cuándo sucede el problema?</th>
-        <td>En un contexto donde la gestión eficiente de flotas es crucial para la rentabilidad y competitividad empresarial, y donde la falta de herramientas adecuadas puede generar pérdidas financieras y daños a la reputación.</td>
-    </tr>
-    <tr>
-        <th>Why?</th>
-        <th>¿Cuál es la causa del problema?</th>
-        <td>¿Cuál es la causa del problema? | La gestión manual de flotas resulta propensa a errores, consume tiempo y recursos, y dificulta la toma de decisiones informadas. La falta de seguimiento adecuado puede ocasionar problemas de rendimiento, seguridad y cumplimiento normativo.</td>
-    </tr>
-    <tr>
-        <th>How?</th>
-        <th>¿Qué llevó a la persona a esta situación?</th>
-        <td>¿Qué llevó a la persona a esta situación? | La ausencia de un sistema centralizado para monitorear y controlar las operaciones de la flota dificulta la optimización de la eficiencia operativa y la identificación de áreas de mejora.</td>
-    </tr>
-    <tr>
-        <th>How much?</th>
-        <th>¿Cuánto es el impacto financiero?</th>
-        <td>La falta de una solución eficiente para la gestión de flotas puede traducirse en pérdidas financieras significativas debido a errores, infracciones, retrasos en los envíos y costos operativos innecesarios. Además, puede afectar la reputación de la empresa y su capacidad para competir en el mercado.</td>
-    </tr>
-    
-</table>
+| Las 5Ws y 2Hs| Pregunta    | Descripción       |
+|--------------|-------------|-------------------|
+| What?        | ¿Cuál es el problema? | La falta de una herramienta eficiente para administrar sistemas de transporte, lo que conlleva a dificultades en la gestión manual de vehículos, conductores y rutas, así como a la ausencia de seguimiento adecuado de incidencias, infracciones y envíos exitosos. |
+| When?        | ¿Cuándo surge el problema? | En un contexto donde la gestión eficiente de flotas es crucial para la rentabilidad y competitividad empresarial, y donde la falta de herramientas adecuadas puede generar pérdidas financieras y daños a la reputación. |
+| Where?       | ¿Dondé surge el problema? | En empresas que operan flotas de transporte en diferentes sectores y ubicaciones geográficas. |
+| Who?         | ¿Quiénes estan involucrados? | Empresarios y transportistas que necesitan gestionar flotas de transporte en diversos ámbitos empresariales. |
+| Why?         | ¿Cuál es la causa del problema? | La gestión manual de flotas resulta propensa a errores, consume tiempo y recursos, y dificulta la toma de decisiones informadas. La falta de seguimiento adecuado puede ocasionar problemas de rendimiento, seguridad y cumplimiento normativo.|
+| How?         | ¿Qué llevó a la persona a esta situación? | La ausencia de un sistema centralizado para monitorear y controlar las operaciones de la flota dificulta la optimización de la eficiencia operativa y la identificación de áreas de mejora. |
+| How much?    | ¿Cuánto es el impacto financiero? | La falta de una solución eficiente para la gestión de flotas puede traducirse en pérdidas financieras significativas debido a errores, infracciones, retrasos en los envíos y costos operativos innecesarios. Además, puede afectar la reputación de la empresa y su capacidad para competir en el mercado.
 
-<!-- MIGUEL: USE CHATGPT--- FALTA MEJORAR A MI OPINION -->
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
 
-<table>
-    <tr>
-        <th>Elemento</th>
-        <th>Descripcion</th>
-    </tr>
-    <tr>
-        <td>Dominio (Domain)</td>
-        <td>La gestión de flotas de transporte en diversos ámbitos empresariales requiere un enfoque integral y eficiente.</td>
-    </tr>
-    <tr>
-        <td>Segmentos de clientes</td>
-        <td>Empresarios y transportistas se enfrentan a dificultades debido a la falta de herramientas especializadas.</td>
-    </tr>
-    <tr>
-        <td>Pain points</td>
-        <td>La gestión manual de vehículos y rutas resulta propensa a errores y consume tiempo y recursos.</td>
-    </tr>
-    <tr>
-        <td>Gap</td>
-        <td>La falta de un sistema centralizado dificulta la optimización de la eficiencia operativa y la toma de decisiones informadas.</td>
-    </tr>
-    <tr>
-        <td>Visión/Strategy</td>
-        <td>La necesidad de una solución integral y eficiente para la gestión de flotas en el sector del transporte empresarial.</td>
-    </tr>
-    <tr>
-        <td>Segmento inicial</td>
-        <td>Empresarios y transportistas que operan flotas de transporte en diferentes sectores y ubicaciones geográficas.</td>
-    </tr>
-</table>
+La gestión de flotas de transporte en diversos ámbitos empresariales presenta desafíos significativos. Empresarios y transportistas se encuentran luchando contra la falta de herramientas especializadas y la dependencia de métodos manuales propensos a errores. Esta gestión fragmentada y descentralizada no solo consume tiempo y recursos, sino que también dificulta la optimización operativa y la toma de decisiones fundamentadas. Ante esta necesidad urgente de una solución integral y eficiente, ¿cómo podemos desarrollar una plataforma que permita una gestión eficaz de vehículos y rutas, optimizando recursos y facilitando la toma de decisiones informadas para mejorar la eficiencia operativa en el sector del transporte empresarial?
 
 #### 1.2.2.2 Lean UX Assumption
 * Los empresarios y transportistas están buscando activamente soluciones tecnológicas para mejorar la gestión de sus flotas.
@@ -167,12 +81,12 @@ Para analizar los antecedentes y la problemática a la que nuestro proyecto se a
 ## 1.3 Segmentos objetivos
 Los segmentos objetivos de MoviGestion son:
 
-Empresarios: Aquellos que son responsables de administrar sistemas de transporte dentro de sus empresas. Este segmento busca herramientas que les permitan optimizar la gestión de flotas, mejorar la eficiencia operativa y tomar decisiones informadas para maximizar la rentabilidad.
+**Empresarios**: Aquellos que son responsables de administrar sistemas de transporte dentro de sus empresas. Este segmento busca herramientas que les permitan optimizar la gestión de flotas, mejorar la eficiencia operativa y tomar decisiones informadas para maximizar la rentabilidad.
 
-![Imagen de Empresarios](https://delcorp.pe/wp-content/uploads/2017/07/motorizado_inhousev2.jpg)
+![Imagen de Empresarios](http://drive.google.com/uc?export=view&id=13DTbP2hM-28Z74sVwemTrnRurpX9JPyO)
 <!-- CÓDIGO PARA MODIFICAR EL TAMAÑO <img src="https://delcorp.pe/wp-content/uploads/2017/07/motorizado_inhousev2.jpg" alt="Imagen de Empresarios" width="400" height="350"> -->
 
 
-Transportistas: Individuos o empresas que se dedican al transporte de mercancías o pasajeros y que buscan una organización eficiente en la gestión de sus operaciones. Este segmento necesita herramientas que les ayuden a planificar rutas, monitorear el rendimiento de los conductores y vehículos, y garantizar la puntualidad en las entregas.
+**Transportistas**: Individuos o empresas que se dedican al transporte de mercancías o pasajeros y que buscan una organización eficiente en la gestión de sus operaciones. Este segmento necesita herramientas que les ayuden a planificar rutas, monitorear el rendimiento de los conductores y vehículos, y garantizar la puntualidad en las entregas.
 
-![Imagen de Transportistas](https://elbuho.pe/wp-content/uploads/2024/01/Transportistas-anuncian-paro-indefinido-a-partir-del-29.jpeg)
+![Imagen de Transportistas](http://drive.google.com/uc?export=view&id=18e7pbNmpAPRGeXYbzycyRqKY3368ncEz)
